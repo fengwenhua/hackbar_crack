@@ -1,8 +1,9 @@
 ## hackbar_crack
-hackbar 2.2.9 之 Firefox 学习版
+hackbar 之 Firefox 学习版
 
 ## 学习教程
 先知: https://xz.aliyun.com/t/7857
+
 我的博客: https://fengwenhua.top/index.php/archives/36/
 
 ## 下载
